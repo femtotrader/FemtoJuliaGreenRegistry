@@ -1,0 +1,3 @@
+name = "OnlineResamplers"
+uuid = "4ea64cfa-c44d-4300-a3f2-26305d84e88b"
+repo = "git@github.com:femtotrader/OnlineResamplers.jl"

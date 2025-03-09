@@ -4,5 +4,6 @@ repo = "git@github.com:femtotrader/FemtoJuliaGreenRegistry.git"
 description = "My green registry"
 
 [packages]
+4ea64cfa-c44d-4300-a3f2-26305d84e88b = { name = "OnlineResamplers", path = "O/OnlineResamplers" }
 51948d2b-02eb-5b28-9840-c902cc6821c9 = { name = "TimeFrames", path = "T/TimeFrames" }
 da7a6f3e-f359-4376-82ed-d2d5f3be0019 = { name = "ParquetStores", path = "P/ParquetStores" }
