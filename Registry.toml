@@ -1,0 +1,6 @@
+name = "FemtoJuliaGreenRegistry"
+uuid = "bee36106-d005-43ac-85f3-ba916459c0ee"
+repo = "git@github.com:femtotrader/FemtoJuliaGreenRegistry.git"
+description = "My green registry"
+
+[packages]
